@@ -6,6 +6,7 @@
 - Mã HP: IT5021(DA)
 - GV hướng dẫn: Thạc sĩ Vũ Đức Vượng
 - Tên đề tài: Quản lý đại lý chăn ga gối nệm cấp 1
+- Công nghệ: Winform(C#), SQL Server
 - Sinh viên: Trần Anh Tuấn
 - MSSV: 20205041
 
