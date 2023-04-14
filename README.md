@@ -1,5 +1,5 @@
 # GR1_QuanLyDaiLyCap1 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Logo_Hust.png/406px-Logo_Hust.png)
+![image](https://reviewedu.net/wp-content/uploads/2021/08/dai-hoc-bach-khoa-ha-noi-hust-1-1-1.jpg)
 - Đại học Bách Khoa Hà Nội
 - Trường Công nghệ thông tin và Truyền thông
 - Môn học: Nguyên cứu tốt nghiệp 1
