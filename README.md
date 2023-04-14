@@ -1,5 +1,5 @@
 # GR1_QuanLyDaiLyCap1 
-![image](https://vi.m.wikipedia.org/wiki/T%E1%BA%ADp_tin:Logo_Hust.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Logo_Hust.png/406px-Logo_Hust.png)
 - Đại học Bách Khoa Hà Nội
 - Trường Công nghệ thông tin và Truyền thông
 - Môn học: Nguyên cứu tốt nghiệp 1
